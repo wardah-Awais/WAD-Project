@@ -26,11 +26,3 @@ The backend handles three core entities:
 | JWT        | Authentication (Token-based)    |
 | Multer     | File Upload (Images/Documents)  |
 | Postman    | API Testing                     |
-
-
-## 🚀 Setup Instructions
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/yourusername/mern-backend-api.git
-cd mern-backend-api
