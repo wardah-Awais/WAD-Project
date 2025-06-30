@@ -26,3 +26,14 @@ The backend handles three core entities:
 | JWT        | Authentication (Token-based)    |
 | Multer     | File Upload (Images/Documents)  |
 | Postman    | API Testing                     |
+
+#### 🧠 Challenges Faced:
+- Understanding JWT
+- RBAC implementation
+- File uploads setup
+
+#### 📘 Learnings:
+- Complete backend API development lifecycle
+- Secure authentication handling
+- RESTful design and token usage
+
